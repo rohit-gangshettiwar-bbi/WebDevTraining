@@ -1,18 +1,17 @@
-/* YOUR CODE GOES IN HERE */
-.card{
-    width: 210px;
-    border: 1px;
-    border-color: grey;
-    border-style: solid;
+/*YOUR CODE GOES IN HERE*/
+
+h1{
+    text-transform:uppercase;
     
-    
-    border-radius: 5px;
-    text-align: center;
-}
-img{
-    width: 200px;
-    border: 5px;
-    border-style: solid;
-    border-color: rgb(236, 183, 191);
-    border-radius: 50%;
+    font-family: monospace;
+
+    text-align:center;
+
+    font-weight:100;
+
+    font-size:40px;
+
+    letter-spacing:20px;
+
+    text-decoration:underline wavy plum;
 }
